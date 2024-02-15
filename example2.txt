@@ -1,0 +1,2 @@
+I am computer science student
+ls -0
